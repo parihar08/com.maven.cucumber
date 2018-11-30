@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="15.421123">
+<testcase classname="HubSpot Login" name="Validate HubSpot HomePage Test" time="15.421123">
+<system-out><![CDATA[Given User opens the browser................................................passed
+When User is on Login Page..................................................passed
+Then User logs into application.............................................passed
+Then Home Page Tile validation..............................................passed
+Then Validate Home Page Header..............................................passed
+Then Validate logged in user................................................passed
+And Application should be closed............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

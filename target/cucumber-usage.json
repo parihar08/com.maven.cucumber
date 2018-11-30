@@ -1,0 +1,128 @@
+[
+  {
+    "source": "^Validate Home Page Header$",
+    "steps": [
+      {
+        "name": "Validate Home Page Header",
+        "aggregatedDurations": {
+          "average": 1.644038991,
+          "median": 1.644038991
+        },
+        "durations": [
+          {
+            "duration": 1.644038991,
+            "location": "/Users/Parihar08/Documents/workspace/com.maven.cucumber/src/main/java/com/qa/features/HubSpot.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Home Page Tile validation$",
+    "steps": [
+      {
+        "name": "Home Page Tile validation",
+        "aggregatedDurations": {
+          "average": 4.475277795,
+          "median": 4.475277795
+        },
+        "durations": [
+          {
+            "duration": 4.475277795,
+            "location": "/Users/Parihar08/Documents/workspace/com.maven.cucumber/src/main/java/com/qa/features/HubSpot.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Validate logged in user$",
+    "steps": [
+      {
+        "name": "Validate logged in user",
+        "aggregatedDurations": {
+          "average": 0.109210652,
+          "median": 0.109210652
+        },
+        "durations": [
+          {
+            "duration": 0.109210652,
+            "location": "/Users/Parihar08/Documents/workspace/com.maven.cucumber/src/main/java/com/qa/features/HubSpot.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User logs into application$",
+    "steps": [
+      {
+        "name": "User logs into application",
+        "aggregatedDurations": {
+          "average": 0.94775457,
+          "median": 0.94775457
+        },
+        "durations": [
+          {
+            "duration": 0.94775457,
+            "location": "/Users/Parihar08/Documents/workspace/com.maven.cucumber/src/main/java/com/qa/features/HubSpot.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Application should be closed$",
+    "steps": [
+      {
+        "name": "Application should be closed",
+        "aggregatedDurations": {
+          "average": 0.229957143,
+          "median": 0.229957143
+        },
+        "durations": [
+          {
+            "duration": 0.229957143,
+            "location": "/Users/Parihar08/Documents/workspace/com.maven.cucumber/src/main/java/com/qa/features/HubSpot.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User opens the browser$",
+    "steps": [
+      {
+        "name": "User opens the browser",
+        "aggregatedDurations": {
+          "average": 7.990641618,
+          "median": 7.990641618
+        },
+        "durations": [
+          {
+            "duration": 7.990641618,
+            "location": "/Users/Parihar08/Documents/workspace/com.maven.cucumber/src/main/java/com/qa/features/HubSpot.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User is on Login Page$",
+    "steps": [
+      {
+        "name": "User is on Login Page",
+        "aggregatedDurations": {
+          "average": 0.024242357,
+          "median": 0.024242357
+        },
+        "durations": [
+          {
+            "duration": 0.024242357,
+            "location": "/Users/Parihar08/Documents/workspace/com.maven.cucumber/src/main/java/com/qa/features/HubSpot.feature:6"
+          }
+        ]
+      }
+    ]
+  }
+]

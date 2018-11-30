@@ -1,0 +1,106 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Validate HubSpot HomePage Test",
+        "description": "",
+        "id": "hubspot-login;validate-hubspot-homepage-test",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7990641618,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User opens the browser",
+            "match": {
+              "location": "HomePageSteps.user_opens_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 24242357,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User is on Login Page",
+            "match": {
+              "location": "HomePageSteps.user_is_on_Login_Page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 947754570,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User logs into application",
+            "match": {
+              "location": "HomePageSteps.user_enters_username_and_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4475277795,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Home Page Tile validation",
+            "match": {
+              "location": "HomePageSteps.home_Page_is_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1644038991,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Validate Home Page Header",
+            "match": {
+              "location": "HomePageSteps.validate_Home_Page_Header()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 109210652,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Validate logged in user",
+            "match": {
+              "location": "HomePageSteps.validate_logged_in_user()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 229957143,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Application should be closed",
+            "match": {
+              "location": "HomePageSteps.application_should_be_closed()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "HubSpot Login",
+    "description": "Description: This feature is used to test the HubSpot Login functionality",
+    "id": "hubspot-login",
+    "keyword": "Feature",
+    "uri": "/Users/Parihar08/Documents/workspace/com.maven.cucumber/src/main/java/com/qa/features/HubSpot.feature"
+  }
+]
